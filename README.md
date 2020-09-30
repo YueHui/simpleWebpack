@@ -2,4 +2,4 @@
 简单的webpack 模型
 
 
-https://juejin.im/post/6854573217336541192
+https://github.com/Sunny-lucking/howToBuildMyWebpack
