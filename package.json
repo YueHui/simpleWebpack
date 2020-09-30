@@ -15,12 +15,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/YueHui/webpack.git"
+    "url": "git+https://github.com/YueHui/simpleWebpack.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/YueHui/webpack/issues"
+    "url": "https://github.com/YueHui/simpleWebpack/issues"
   },
-  "homepage": "https://github.com/YueHui/webpack#readme"
+  "homepage": "https://github.com/YueHui/simpleWebpack#readme"
 }
